@@ -37,9 +37,6 @@ Note you can check status to see that the changes made has not being commited ye
 
 /* 
 1. Open Github and create a repository without ticking the "Add a readme file".
-2. Use the command line instruction at the very bottom : 
-    * 
-
 3. Use command line to mention the external repository created by using (remote add origin "past Github repository url")
 4. Now push your files in this repository using "git push -u origin main" (Origin is the name we created above and main is 
     the default github branch we created our external repository from).
